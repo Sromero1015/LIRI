@@ -1,10 +1,10 @@
 # LIRI-Node-App
 
-** LIRI, which stands for Language Interpretation and Recognition Interface, is an app that uses the Node.js program, along with the BandsInTown and Spotify APIs. 
+**LIRI, which stands for Language Interpretation and Recognition Interface, is an app that uses the Node.js program, along with the BandsInTown and Spotify APIs.** 
 
-** A Command line application made with Node.js that takes in parameters and responds with data.
+**A Command line application made with Node.js that takes in parameters and responds with data.**
 
-** Commands:
+**Commands:**
 ```
 
 -`concert-this` : responds with upcoming shows from your favorite band
@@ -15,10 +15,10 @@
 
 -`do-what-it-says` : reads from random.txt file and executes the command & search term inside the file
 ```
-**Demo: 
+**Demo:** 
     ![](liriDemo.gif)
 
-** Technologies Used:
+**Technologies Used:**
 
 - Node.js
 - NPM
